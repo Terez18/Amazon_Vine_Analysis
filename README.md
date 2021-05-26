@@ -16,14 +16,29 @@ The purpose of the analysis in this challenge was to evaluate the impact the Vin
 All dataframes are available in the link to complete code above. In addion, below are the results:
 
 
-Images for the PgAdmin tables:
+### Images for the PgAdmin tables:
+
+#### customers table
+
 ![customers_table.PNG](customers_table.PNG)
+
+
+#### products table
 
 ![producs_table.PNG](products_table.PNG)
 
+
+#### review_id table
+
 ![review_id_table.PNG](review_id_table.PNG)
 
+
+#### vine table
+
 ![vine_table.PNG](vine_table.PNG)
+
+
+---
 
 
 The total number of Vine reviews was: 60. 
